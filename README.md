@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💬 Ask me about Data Structures
+💬 Ask me about Data Structures <br>
 📫 How to reach me: nagarharshita347@gmail.com
